@@ -40,7 +40,7 @@ https://devices.esphome.io/devices/generic-remote-receiver/
 | Volume Minus | `FF6897` | `0x00FF6897` |
 | Volume Add | `FF9867` | `0x00FF9867` |
 | Equalizer | `FFC23D` | `0x00FFC23D` |
-| Scan Channels | `FF906F` | `0x00FF906F` |
+| Play/Scan Channels | `FF906F` | `0x00FF906F` |
 | Mute | `FFE21D` | `0x00FFE21D` |
 
 All: NEC, 38kHz, address `0x00FF`.
