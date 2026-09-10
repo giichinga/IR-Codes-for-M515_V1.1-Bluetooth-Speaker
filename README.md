@@ -7,7 +7,7 @@
 - Protocol: NEC
 - Address: `0x00FF`
 
-![Board](./m515-actual.jpg)
+![Board](./module.jpg)
 
 ## Credit
 
