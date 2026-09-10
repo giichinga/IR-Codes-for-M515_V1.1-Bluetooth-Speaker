@@ -55,8 +55,3 @@ All: NEC, 38kHz, address `0x00FF`.
 
 If a different board doesn't match this table: use IR Blaster Remote's Signal Tester (NEC, hex prefix `00`/`40`/`80`/`FF`, watch for reaction).
 
-## Files
-
-- `README.md`
-- `m515-actual.jpg` — board photo
-- `screenshot1.png` — finished remote
