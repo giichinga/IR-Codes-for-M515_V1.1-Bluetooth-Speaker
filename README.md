@@ -45,7 +45,7 @@ https://devices.esphome.io/devices/generic-remote-receiver/
 
 All: NEC, 38kHz, address `0x00FF`.
 
-![Remote](./screenshot1.png)
+
 
 ## Untested / Not Found
 
